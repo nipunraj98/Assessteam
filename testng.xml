@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="signUPSequential">
+    <classes>
+    <class name="AssessFlowtestcases.signupsequential"/>
+    </classes>
+    </test> <!-- Test -->
+    
+     <test thread-count="5" name="AddNewResultAreaValue">
+    <classes>
+    <class name="AssessFlowtestcases.AddNewResultAreaValue"/>
+    </classes>
+    </test> <!-- Test -->
+
+    <test thread-count="5" name="AddPerson">
+    <classes>
+    <class name="AssessFlowtestcases.AddPersonManually"/>
+    </classes>
+    </test> <!-- Test -->
+    
+    <test thread-count="5" name="AddPerson2">
+    <classes>
+    <class name="AssessFlowtestcases.AddPersonManually2"/>
+    </classes>
+    </test> <!-- Test -->
+    
+    <test thread-count="5" name="AddPerson3">
+    <classes>
+    <class name="AssessFlowtestcases.AddPersonManually3"/>
+    </classes>
+    </test> <!-- Test -->
+    
+   <test thread-count="5" name="sendevaluation">
+    <classes>
+    <class name="AssessFlowtestcases.SendOutEvaluation"/>
+    </classes>
+    </test> 
+    
+    <test thread-count="5" name="GSuite">
+    <classes>
+    <class name="AssessFlowtestcases.GSuite"/>
+    </classes>
+    </test> 
+    
+    <test thread-count="5" name="Office365Integration">
+    <classes>
+    <class name="AssessFlowtestcases.Office365Integration"/>
+    </classes>
+    </test> 
+    
+	<test thread-count="5" name="IntegrationWithBaseCamp">
+	<classes>
+    <class name="AssessFlowtestcases.IntegrationWithBaseCamp"/>
+    </classes>
+    </test> 
+
+	<!--<test thread-count="5" name="IntegrationWithWrikeflow">
+	<classes>
+    <class name="AssessFlowtestcases.IntegrationWithWrikeflow"/>
+    </classes>
+    </test>-->
+	    
+    <test thread-count="5" name="APIIntegration">
+    <classes>
+    <class name="AssessFlowtestcases.APIIntegration"/>
+    </classes>
+    </test> 
+    
+    <test thread-count="5" name="ZohoIntegration">
+    <classes>
+    <class name="AssessFlowtestcases.ZohoIntegration"/>
+    </classes>
+    </test> 
+    
+   
+    
+    <test thread-count="5" name="completeEvaluation">
+    <classes>
+    <class name="AssessFlowtestcases.CompleteAnEvaluation"/>
+    </classes>
+    </test> 
+    
+    <test thread-count="5" name="continuousFeedback">
+    <classes>
+    <class name="AssessFlowtestcases.continuousFeedback"/>
+    </classes>
+    </test> 
+    
+    <test thread-count="5" name="Delete">
+    <classes>
+    <class name="AssessFlowtestcases.DeleteCompany"/>
+    </classes>
+    </test>
+          
+   
+
+</suite> <!-- Suite -->

@@ -1,0 +1,124 @@
+<html>
+<head>
+<title>TestNG:  GSuite</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>GSuite</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Feb 23 16:35:37 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>51 seconds (51328 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='AssessFlowtestcases.GSuite.a_HomepageNavigation()'><b>a_HomepageNavigation</b><br>Test class: AssessFlowtestcases.GSuite<br/>
+<a href="#Output-1683063408" onClick='toggleBox("Output-1683063408", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1683063408" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1683063408">
+The browser is being opened<br/>
+https://account.assessteam.com/login<br/>
+Url is being hit<br/>
+HomePage Navigation done<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>AssessFlowtestcases.GSuite@887af79</td></tr>
+<tr>
+<td title='AssessFlowtestcases.GSuite.b_LoginAssess()'><b>b_LoginAssess</b><br>Test class: AssessFlowtestcases.GSuite<br/>
+<a href="#Output-1682586333" onClick='toggleBox("Output-1682586333", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1682586333" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1682586333">
+username entered<br/>
+password entered<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>AssessFlowtestcases.GSuite@887af79</td></tr>
+<tr>
+<td title='AssessFlowtestcases.GSuite.c_GSuiteIntegration()'><b>c_GSuiteIntegration</b><br>Test class: AssessFlowtestcases.GSuite<br/>
+<a href="#Output-1886938557" onClick='toggleBox("Output-1886938557", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1886938557" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1886938557">
+Integration is being clicked<br/>
+Gsuite is being clicked<br/>
+Gmail is being opened<br/>
+email has been entered for gmail<br/>
+Top 5 results have been selected<br/>
+The message after clicking ImportSuccess! 3 persons imported successfully from your G Suite account.<br/>
+</div>
+</td>
+<td></td>
+<td>39</td>
+<td>AssessFlowtestcases.GSuite@887af79</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="56" passed="56">
+  <reporter-output>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_29_28.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_29_28.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Switched to signup page]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\signup page 23_02_2021_04_29_36.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\signup page 23_02_2021_04_29_36.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Mandatory fields are being entered]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\All details have been entered 23_02_2021_04_29_41.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\All details have been entered 23_02_2021_04_29_41.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Save button is being clicked ]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_29_51.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_29_51.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[mail from AssessTeam is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam Mail 23_02_2021_04_30_01.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam Mail 23_02_2021_04_30_01.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[link for verifying the mail id is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully into AssessTeam]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam 23_02_2021_04_30_14.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam 23_02_2021_04_30_14.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[The ResultArea tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\ResultArea 23_02_2021_04_30_33.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\ResultArea 23_02_2021_04_30_33.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Add a new Result is now being Clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AddResultAreaPage 23_02_2021_04_30_38.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AddResultAreaPage 23_02_2021_04_30_38.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[The resultarea name newly added is:SeleniumTesting]]>
+    </line>
+    <line>
+      <![CDATA[The job title selected is:SeleniumTester]]>
+    </line>
+    <line>
+      <![CDATA[The result area type added is: skills]]>
+    </line>
+    <line>
+      <![CDATA[The added new description is: This is for testing purpose for Automation]]>
+    </line>
+    <line>
+      <![CDATA[Add Performance indicators page is being opened]]>
+    </line>
+    <line>
+      <![CDATA[4 point value scale is being selected]]>
+    </line>
+    <line>
+      <![CDATA[Performance indicator is being saved]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[The Persons tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Add a new Person is now being Clicked]]>
+    </line>
+    <line>
+      <![CDATA[The person added]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In]]>
+    </line>
+    <line>
+      <![CDATA[mail from AssessTeam is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[link for verifying the mail id is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_32_05.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_32_05.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully into AssessTeam]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[The Persons tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Add a new Person is now being Clicked]]>
+    </line>
+    <line>
+      <![CDATA[The person added]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In]]>
+    </line>
+    <line>
+      <![CDATA[mail from AssessTeam is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[link for verifying the mail id is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_33_19.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_33_19.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully into AssessTeam]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[The Persons tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Add a new Person is now being Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Peer evaluator is being added: Ronaldo Messi]]>
+    </line>
+    <line>
+      <![CDATA[Upward evaluator is being added: Helen Angeline]]>
+    </line>
+    <line>
+      <![CDATA[The person added]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In]]>
+    </line>
+    <line>
+      <![CDATA[mail from AssessTeam is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[link for verifying the mail id is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully into AssessTeam]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Evaluation page is being opened]]>
+    </line>
+    <line>
+      <![CDATA[Adhoc Evaluation page is being opened]]>
+    </line>
+    <line>
+      <![CDATA[All details have been Entered]]>
+    </line>
+    <line>
+      <![CDATA[Evaluation is saved]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Gsuite is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email has been entered for gmail]]>
+    </line>
+    <line>
+      <![CDATA[Top 5 results have been selected]]>
+    </line>
+    <line>
+      <![CDATA[The message after clicking ImportSuccess! 3 persons imported successfully from your G Suite account.]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Office 365 is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Connect office 365 is being clicked ]]>
+    </line>
+    <line>
+      <![CDATA[Redirected to Gmail]]>
+    </line>
+    <line>
+      <![CDATA[Email Id has been entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Accept Tab]]>
+    </line>
+    <line>
+      <![CDATA[Redirected to Office365 Integration Page]]>
+    </line>
+    <line>
+      <![CDATA[Top 5 results have been selected]]>
+    </line>
+    <line>
+      <![CDATA[The message after clicking ImportSuccess! 5 persons imported successfully from your Office 365 account.]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Basecamp integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Authorization page is being opened]]>
+    </line>
+    <line>
+      <![CDATA[integration is successful]]>
+    </line>
+    <line>
+      <![CDATA[You've successfully authorized your Basecamp account to allow contact and project imports.
+Projects will be imported without a start date, as soon as you edit the project and put in a start date timesheets will be enabled.]]>
+    </line>
+    <line>
+      <![CDATA[Basecamp integration is being completed]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[API Swagger UI has been opened]]>
+    </line>
+    <line>
+      <![CDATA[Secret Key has been pasted in swagger]]>
+    </line>
+    <line>
+      <![CDATA[Authorize successful]]>
+    </line>
+    <line>
+      <![CDATA[Post for add person is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[All details have been entered for Person Code]]>
+    </line>
+    <line>
+      <![CDATA[execute button is being clicked for add person]]>
+    </line>
+    <line>
+      <![CDATA[The request Url after adding Person in Swaggerhttps://restapi.assessteam.com/person/addperson?firstname=joey&lastname=Rachel&personcode=9537]]>
+    </line>
+    <line>
+      <![CDATA[The Response after adding Person{
+  "message": "Person added successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+    </line>
+    <line>
+      <![CDATA[Add Person is completed]]>
+    </line>
+    <line>
+      <![CDATA[Post for update person is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[try it out button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[All updated details have been entered and lastName is being updated]]>
+    </line>
+    <line>
+      <![CDATA[Execute button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[The Request URL after updating details of Lastnamehttps://restapi.assessteam.com/person/updateperson?firstname=joey&lastname=david&personcode=9537]]>
+    </line>
+    <line>
+      <![CDATA[The Response after updating Person{
+  "message": "Person updated successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+    </line>
+    <line>
+      <![CDATA[Update Person is being completed]]>
+    </line>
+    <line>
+      <![CDATA[Post for get person is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[try it out button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Person code is being entered]]>
+    </line>
+    <line>
+      <![CDATA[Execute button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[The Response after executing get Person{
+  "message": "",
+  "data": {
+    "firstname": "Froger",
+    "lastname": "Audey",
+    "personcode": "0001",
+    "dateofjoining": null,
+    "email": "selenium+u1@pulsesolutions.net",
+    "contactnumber": null,
+    "userpermissions": "Owners",
+    "team": null,
+    "jobtitle": "Owner",
+    "evaluators": null
+  },
+  "statusCode": 200,
+  "personID": 0
+}]]>
+    </line>
+    <line>
+      <![CDATA[GetPerson is being completed]]>
+    </line>
+    <line>
+      <![CDATA[Post for delete person is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[try it out button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[person code is being entered and execute button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Response after deleting person{
+  "message": "Person removed successfully.",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+    </line>
+    <line>
+      <![CDATA[delete Person is completed]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[Integration is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+    <line>
+      <![CDATA[User Logged In]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_40_54.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_40_54.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[mail from AssessTeam is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[link for verifying the mail id is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_10.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_10.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Survey start button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\EvaluationComplete 23_02_2021_04_41_21.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\EvaluationComplete 23_02_2021_04_41_21.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_41_26.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_41_26.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AfterLoginPage 23_02_2021_04_41_32.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AfterLoginPage 23_02_2021_04_41_32.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Continuous FeedBack button is being Clicked]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_50.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_50.png'height='100' Width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Survey start button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[Evaluation for person is being started]]>
+    </line>
+    <line>
+      <![CDATA[The browser is being opened]]>
+    </line>
+    <line>
+      <![CDATA[https://account.assessteam.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Url is being hit]]>
+    </line>
+    <line>
+      <![CDATA[HomePage Navigation done]]>
+    </line>
+    <line>
+      <![CDATA[username entered]]>
+    </line>
+    <line>
+      <![CDATA[password entered]]>
+    </line>
+    <line>
+      <![CDATA[delete button is being clicked]]>
+    </line>
+    <line>
+      <![CDATA[company is being deleted and navigated to sign up page]]>
+    </line>
+    <line>
+      <![CDATA[Gmail is being opened]]>
+    </line>
+    <line>
+      <![CDATA[email ID and password is being provided]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="800086" started-at="2021-02-23T10:59:23Z" finished-at="2021-02-23T11:12:43Z">
+    <groups>
+    </groups>
+    <test name="signUPSequential" duration-ms="51593" started-at="2021-02-23T10:59:23Z" finished-at="2021-02-23T11:00:15Z">
+      <class name="AssessFlowtestcases.signupsequential">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.signupsequential@29ca901e]" name="a_HomepageNavigation" duration-ms="4988" started-at="2021-02-23T10:59:23Z" finished-at="2021-02-23T10:59:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_29_28.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_29_28.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_signUp()[pri:1, instance:AssessFlowtestcases.signupsequential@29ca901e]" name="b_signUp" duration-ms="14789" started-at="2021-02-23T10:59:28Z" finished-at="2021-02-23T10:59:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Switched to signup page]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\signup page 23_02_2021_04_29_36.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\signup page 23_02_2021_04_29_36.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Mandatory fields are being entered]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\All details have been entered 23_02_2021_04_29_41.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\All details have been entered 23_02_2021_04_29_41.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Save button is being clicked ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_signUp -->
+        <test-method status="PASS" signature="c_mailClick()[pri:2, instance:AssessFlowtestcases.signupsequential@29ca901e]" name="c_mailClick" duration-ms="13700" started-at="2021-02-23T10:59:43Z" finished-at="2021-02-23T10:59:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_29_51.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_29_51.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_mailClick -->
+        <test-method status="PASS" signature="d_AssessMailClick()[pri:3, instance:AssessFlowtestcases.signupsequential@29ca901e]" name="d_AssessMailClick" duration-ms="18075" started-at="2021-02-23T10:59:57Z" finished-at="2021-02-23T11:00:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mail from AssessTeam is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam Mail 23_02_2021_04_30_01.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam Mail 23_02_2021_04_30_01.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[link for verifying the mail id is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[User logged in successfully into AssessTeam]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam 23_02_2021_04_30_14.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AssessTeam 23_02_2021_04_30_14.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_AssessMailClick -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.signupsequential@29ca901e]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:00:15Z" finished-at="2021-02-23T11:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.signupsequential -->
+    </test> <!-- signUPSequential -->
+    <test name="AddNewResultAreaValue" duration-ms="47773" started-at="2021-02-23T11:00:15Z" finished-at="2021-02-23T11:01:03Z">
+      <class name="AssessFlowtestcases.AddNewResultAreaValue">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.AddNewResultAreaValue@4e9ba398]" name="a_HomepageNavigation" duration-ms="5025" started-at="2021-02-23T11:00:15Z" finished-at="2021-02-23T11:00:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.AddNewResultAreaValue@4e9ba398]" name="b_LoginAssess" duration-ms="7178" started-at="2021-02-23T11:00:20Z" finished-at="2021-02-23T11:00:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_AddResultAreaValue()[pri:2, instance:AssessFlowtestcases.AddNewResultAreaValue@4e9ba398]" name="c_AddResultAreaValue" duration-ms="16031" started-at="2021-02-23T11:00:27Z" finished-at="2021-02-23T11:00:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The ResultArea tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\ResultArea 23_02_2021_04_30_33.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\ResultArea 23_02_2021_04_30_33.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Add a new Result is now being Clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AddResultAreaPage 23_02_2021_04_30_38.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AddResultAreaPage 23_02_2021_04_30_38.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[The resultarea name newly added is:SeleniumTesting]]>
+            </line>
+            <line>
+              <![CDATA[The job title selected is:SeleniumTester]]>
+            </line>
+            <line>
+              <![CDATA[The result area type added is: skills]]>
+            </line>
+            <line>
+              <![CDATA[The added new description is: This is for testing purpose for Automation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_AddResultAreaValue -->
+        <test-method status="PASS" signature="d_AddPI()[pri:3, instance:AssessFlowtestcases.AddNewResultAreaValue@4e9ba398]" name="d_AddPI" duration-ms="19535" started-at="2021-02-23T11:00:43Z" finished-at="2021-02-23T11:01:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Add Performance indicators page is being opened]]>
+            </line>
+            <line>
+              <![CDATA[4 point value scale is being selected]]>
+            </line>
+            <line>
+              <![CDATA[Performance indicator is being saved]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_AddPI -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.AddNewResultAreaValue@4e9ba398]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:01:03Z" finished-at="2021-02-23T11:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.AddNewResultAreaValue -->
+    </test> <!-- AddNewResultAreaValue -->
+    <test name="AddPerson" duration-ms="71322" started-at="2021-02-23T11:01:03Z" finished-at="2021-02-23T11:02:14Z">
+      <class name="AssessFlowtestcases.AddPersonManually">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="a_HomepageNavigation" duration-ms="4925" started-at="2021-02-23T11:01:03Z" finished-at="2021-02-23T11:01:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="b_LoginAssess" duration-ms="5300" started-at="2021-02-23T11:01:08Z" finished-at="2021-02-23T11:01:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_AddPerson()[pri:2, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="c_AddPerson" duration-ms="31545" started-at="2021-02-23T11:01:13Z" finished-at="2021-02-23T11:01:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Persons tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Add a new Person is now being Clicked]]>
+            </line>
+            <line>
+              <![CDATA[The person added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_AddPerson -->
+        <test-method status="PASS" signature="d_mailClick()[pri:3, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="d_mailClick" duration-ms="7940" started-at="2021-02-23T11:01:44Z" finished-at="2021-02-23T11:01:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_mailClick -->
+        <test-method status="PASS" signature="e_AssessMailClick()[pri:4, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="e_AssessMailClick" duration-ms="21606" started-at="2021-02-23T11:01:52Z" finished-at="2021-02-23T11:02:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mail from AssessTeam is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[link for verifying the mail id is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_32_05.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_32_05.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[User logged in successfully into AssessTeam]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e_AssessMailClick -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.AddPersonManually@6b09bb57]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:02:14Z" finished-at="2021-02-23T11:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.AddPersonManually -->
+    </test> <!-- AddPerson -->
+    <test name="AddPerson2" duration-ms="73963" started-at="2021-02-23T11:02:14Z" finished-at="2021-02-23T11:03:28Z">
+      <class name="AssessFlowtestcases.AddPersonManually2">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="a_HomepageNavigation" duration-ms="2992" started-at="2021-02-23T11:02:14Z" finished-at="2021-02-23T11:02:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="b_LoginAssess" duration-ms="4979" started-at="2021-02-23T11:02:17Z" finished-at="2021-02-23T11:02:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_AddPerson_two()[pri:2, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="c_AddPerson_two" duration-ms="31948" started-at="2021-02-23T11:02:22Z" finished-at="2021-02-23T11:02:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Persons tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Add a new Person is now being Clicked]]>
+            </line>
+            <line>
+              <![CDATA[The person added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_AddPerson_two -->
+        <test-method status="PASS" signature="d_mailClick()[pri:3, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="d_mailClick" duration-ms="7956" started-at="2021-02-23T11:02:54Z" finished-at="2021-02-23T11:03:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_mailClick -->
+        <test-method status="PASS" signature="e_AssessMailClick()[pri:4, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="e_AssessMailClick" duration-ms="26078" started-at="2021-02-23T11:03:02Z" finished-at="2021-02-23T11:03:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mail from AssessTeam is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[link for verifying the mail id is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_33_19.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_33_19.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[User logged in successfully into AssessTeam]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e_AssessMailClick -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.AddPersonManually2@67784306]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:03:28Z" finished-at="2021-02-23T11:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.AddPersonManually2 -->
+    </test> <!-- AddPerson2 -->
+    <test name="AddPerson3" duration-ms="82876" started-at="2021-02-23T11:03:28Z" finished-at="2021-02-23T11:04:51Z">
+      <class name="AssessFlowtestcases.AddPersonManually3">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="a_HomepageNavigation" duration-ms="2780" started-at="2021-02-23T11:03:28Z" finished-at="2021-02-23T11:03:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="b_LoginAssess" duration-ms="5253" started-at="2021-02-23T11:03:31Z" finished-at="2021-02-23T11:03:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_AddPerson_three()[pri:2, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="c_AddPerson_three" duration-ms="43256" started-at="2021-02-23T11:03:36Z" finished-at="2021-02-23T11:04:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Persons tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Add a new Person is now being Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Peer evaluator is being added: Ronaldo Messi]]>
+            </line>
+            <line>
+              <![CDATA[Upward evaluator is being added: Helen Angeline]]>
+            </line>
+            <line>
+              <![CDATA[The person added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_AddPerson_three -->
+        <test-method status="PASS" signature="d_mailClick()[pri:3, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="d_mailClick" duration-ms="8003" started-at="2021-02-23T11:04:19Z" finished-at="2021-02-23T11:04:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_mailClick -->
+        <test-method status="PASS" signature="e_AssessMailClick()[pri:4, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="e_AssessMailClick" duration-ms="23571" started-at="2021-02-23T11:04:27Z" finished-at="2021-02-23T11:04:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mail from AssessTeam is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[link for verifying the mail id is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[User logged in successfully into AssessTeam]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e_AssessMailClick -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.AddPersonManually3@5a8e6209]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:04:51Z" finished-at="2021-02-23T11:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.AddPersonManually3 -->
+    </test> <!-- AddPerson3 -->
+    <test name="sendevaluation" duration-ms="45718" started-at="2021-02-23T11:04:51Z" finished-at="2021-02-23T11:05:37Z">
+      <class name="AssessFlowtestcases.SendOutEvaluation">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.SendOutEvaluation@6325a3ee]" name="a_HomepageNavigation" duration-ms="2936" started-at="2021-02-23T11:04:51Z" finished-at="2021-02-23T11:04:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.SendOutEvaluation@6325a3ee]" name="b_LoginAssess" duration-ms="4827" started-at="2021-02-23T11:04:54Z" finished-at="2021-02-23T11:04:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="d_Evaluation()[pri:3, instance:AssessFlowtestcases.SendOutEvaluation@6325a3ee]" name="d_Evaluation" duration-ms="37954" started-at="2021-02-23T11:04:59Z" finished-at="2021-02-23T11:05:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Evaluation page is being opened]]>
+            </line>
+            <line>
+              <![CDATA[Adhoc Evaluation page is being opened]]>
+            </line>
+            <line>
+              <![CDATA[All details have been Entered]]>
+            </line>
+            <line>
+              <![CDATA[Evaluation is saved]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_Evaluation -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.SendOutEvaluation@6325a3ee]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:05:37Z" finished-at="2021-02-23T11:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.SendOutEvaluation -->
+    </test> <!-- sendevaluation -->
+    <test name="GSuite" duration-ms="51328" started-at="2021-02-23T11:05:37Z" finished-at="2021-02-23T11:06:28Z">
+      <class name="AssessFlowtestcases.GSuite">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.GSuite@887af79]" name="a_HomepageNavigation" duration-ms="5012" started-at="2021-02-23T11:05:37Z" finished-at="2021-02-23T11:05:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.GSuite@887af79]" name="b_LoginAssess" duration-ms="6673" started-at="2021-02-23T11:05:42Z" finished-at="2021-02-23T11:05:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_GSuiteIntegration()[pri:2, instance:AssessFlowtestcases.GSuite@887af79]" name="c_GSuiteIntegration" duration-ms="39639" started-at="2021-02-23T11:05:48Z" finished-at="2021-02-23T11:06:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Gsuite is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email has been entered for gmail]]>
+            </line>
+            <line>
+              <![CDATA[Top 5 results have been selected]]>
+            </line>
+            <line>
+              <![CDATA[The message after clicking ImportSuccess! 3 persons imported successfully from your G Suite account.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_GSuiteIntegration -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.GSuite@887af79]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:06:28Z" finished-at="2021-02-23T11:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.GSuite -->
+    </test> <!-- GSuite -->
+    <test name="Office365Integration" duration-ms="77201" started-at="2021-02-23T11:06:28Z" finished-at="2021-02-23T11:07:45Z">
+      <class name="AssessFlowtestcases.Office365Integration">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.Office365Integration@5ae63ade]" name="a_HomepageNavigation" duration-ms="4872" started-at="2021-02-23T11:06:28Z" finished-at="2021-02-23T11:06:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.Office365Integration@5ae63ade]" name="b_LoginAssess" duration-ms="5289" started-at="2021-02-23T11:06:33Z" finished-at="2021-02-23T11:06:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_Office365Integration()[pri:2, instance:AssessFlowtestcases.Office365Integration@5ae63ade]" name="c_Office365Integration" duration-ms="67038" started-at="2021-02-23T11:06:38Z" finished-at="2021-02-23T11:07:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Office 365 is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Connect office 365 is being clicked ]]>
+            </line>
+            <line>
+              <![CDATA[Redirected to Gmail]]>
+            </line>
+            <line>
+              <![CDATA[Email Id has been entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successful]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Accept Tab]]>
+            </line>
+            <line>
+              <![CDATA[Redirected to Office365 Integration Page]]>
+            </line>
+            <line>
+              <![CDATA[Top 5 results have been selected]]>
+            </line>
+            <line>
+              <![CDATA[The message after clicking ImportSuccess! 5 persons imported successfully from your Office 365 account.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_Office365Integration -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.Office365Integration@5ae63ade]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:07:45Z" finished-at="2021-02-23T11:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.Office365Integration -->
+    </test> <!-- Office365Integration -->
+    <test name="IntegrationWithBaseCamp" duration-ms="36519" started-at="2021-02-23T11:07:45Z" finished-at="2021-02-23T11:08:22Z">
+      <class name="AssessFlowtestcases.IntegrationWithBaseCamp">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.IntegrationWithBaseCamp@1f36e637]" name="a_HomepageNavigation" duration-ms="2810" started-at="2021-02-23T11:07:45Z" finished-at="2021-02-23T11:07:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:2, instance:AssessFlowtestcases.IntegrationWithBaseCamp@1f36e637]" name="b_LoginAssess" duration-ms="4879" started-at="2021-02-23T11:07:48Z" finished-at="2021-02-23T11:07:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_IntegrationBaseCamp()[pri:2, instance:AssessFlowtestcases.IntegrationWithBaseCamp@1f36e637]" name="c_IntegrationBaseCamp" duration-ms="28829" started-at="2021-02-23T11:07:53Z" finished-at="2021-02-23T11:08:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Basecamp integration is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Authorization page is being opened]]>
+            </line>
+            <line>
+              <![CDATA[integration is successful]]>
+            </line>
+            <line>
+              <![CDATA[You've successfully authorized your Basecamp account to allow contact and project imports.
+Projects will be imported without a start date, as soon as you edit the project and put in a start date timesheets will be enabled.]]>
+            </line>
+            <line>
+              <![CDATA[Basecamp integration is being completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_IntegrationBaseCamp -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.IntegrationWithBaseCamp@1f36e637]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:08:22Z" finished-at="2021-02-23T11:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.IntegrationWithBaseCamp -->
+    </test> <!-- IntegrationWithBaseCamp -->
+    <test name="APIIntegration" duration-ms="95151" started-at="2021-02-23T11:08:22Z" finished-at="2021-02-23T11:09:57Z">
+      <class name="AssessFlowtestcases.APIIntegration">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="a_HomepageNavigation" duration-ms="5046" started-at="2021-02-23T11:08:22Z" finished-at="2021-02-23T11:08:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="b_LoginAssess" duration-ms="6269" started-at="2021-02-23T11:08:27Z" finished-at="2021-02-23T11:08:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_APIIntegration()[pri:2, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="c_APIIntegration" duration-ms="41723" started-at="2021-02-23T11:08:33Z" finished-at="2021-02-23T11:09:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[API Swagger UI has been opened]]>
+            </line>
+            <line>
+              <![CDATA[Secret Key has been pasted in swagger]]>
+            </line>
+            <line>
+              <![CDATA[Authorize successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_APIIntegration -->
+        <test-method status="PASS" signature="d_AddPerson()[pri:3, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="d_AddPerson" duration-ms="12921" started-at="2021-02-23T11:09:15Z" finished-at="2021-02-23T11:09:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Post for add person is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[All details have been entered for Person Code]]>
+            </line>
+            <line>
+              <![CDATA[execute button is being clicked for add person]]>
+            </line>
+            <line>
+              <![CDATA[The request Url after adding Person in Swaggerhttps://restapi.assessteam.com/person/addperson?firstname=joey&lastname=Rachel&personcode=9537]]>
+            </line>
+            <line>
+              <![CDATA[The Response after adding Person{
+  "message": "Person added successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+            </line>
+            <line>
+              <![CDATA[Add Person is completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_AddPerson -->
+        <test-method status="PASS" signature="e_UpdatePerson()[pri:4, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="e_UpdatePerson" duration-ms="12861" started-at="2021-02-23T11:09:28Z" finished-at="2021-02-23T11:09:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Post for update person is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[try it out button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[All updated details have been entered and lastName is being updated]]>
+            </line>
+            <line>
+              <![CDATA[Execute button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[The Request URL after updating details of Lastnamehttps://restapi.assessteam.com/person/updateperson?firstname=joey&lastname=david&personcode=9537]]>
+            </line>
+            <line>
+              <![CDATA[The Response after updating Person{
+  "message": "Person updated successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+            </line>
+            <line>
+              <![CDATA[Update Person is being completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e_UpdatePerson -->
+        <test-method status="PASS" signature="f_getPerson()[pri:5, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="f_getPerson" duration-ms="6954" started-at="2021-02-23T11:09:40Z" finished-at="2021-02-23T11:09:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Post for get person is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[try it out button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Person code is being entered]]>
+            </line>
+            <line>
+              <![CDATA[Execute button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[The Response after executing get Person{
+  "message": "",
+  "data": {
+    "firstname": "Froger",
+    "lastname": "Audey",
+    "personcode": "0001",
+    "dateofjoining": null,
+    "email": "selenium+u1@pulsesolutions.net",
+    "contactnumber": null,
+    "userpermissions": "Owners",
+    "team": null,
+    "jobtitle": "Owner",
+    "evaluators": null
+  },
+  "statusCode": 200,
+  "personID": 0
+}]]>
+            </line>
+            <line>
+              <![CDATA[GetPerson is being completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f_getPerson -->
+        <test-method status="PASS" signature="g_deletePerson()[pri:6, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="g_deletePerson" duration-ms="9377" started-at="2021-02-23T11:09:47Z" finished-at="2021-02-23T11:09:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Post for delete person is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[try it out button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[person code is being entered and execute button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[Response after deleting person{
+  "message": "Person removed successfully.",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}]]>
+            </line>
+            <line>
+              <![CDATA[delete Person is completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- g_deletePerson -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.APIIntegration@3cef309d]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:09:57Z" finished-at="2021-02-23T11:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.APIIntegration -->
+    </test> <!-- APIIntegration -->
+    <test name="ZohoIntegration" duration-ms="44465" started-at="2021-02-23T11:09:57Z" finished-at="2021-02-23T11:10:41Z">
+      <class name="AssessFlowtestcases.ZohoIntegration">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.ZohoIntegration@79be0360]" name="a_HomepageNavigation" duration-ms="5092" started-at="2021-02-23T11:09:57Z" finished-at="2021-02-23T11:10:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.ZohoIntegration@79be0360]" name="b_LoginAssess" duration-ms="6018" started-at="2021-02-23T11:10:02Z" finished-at="2021-02-23T11:10:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_ZohoIntegration()[pri:2, instance:AssessFlowtestcases.ZohoIntegration@79be0360]" name="c_ZohoIntegration" duration-ms="33354" started-at="2021-02-23T11:10:08Z" finished-at="2021-02-23T11:10:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration is being clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_ZohoIntegration -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.ZohoIntegration@79be0360]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:10:41Z" finished-at="2021-02-23T11:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.ZohoIntegration -->
+    </test> <!-- ZohoIntegration -->
+    <test name="completeEvaluation" duration-ms="41458" started-at="2021-02-23T11:10:41Z" finished-at="2021-02-23T11:11:23Z">
+      <class name="AssessFlowtestcases.CompleteAnEvaluation">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.CompleteAnEvaluation@72b6cbcc]" name="a_HomepageNavigation" duration-ms="1644" started-at="2021-02-23T11:10:41Z" finished-at="2021-02-23T11:10:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_mailClick()[pri:1, instance:AssessFlowtestcases.CompleteAnEvaluation@72b6cbcc]" name="b_mailClick" duration-ms="13624" started-at="2021-02-23T11:10:43Z" finished-at="2021-02-23T11:10:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+            <line>
+              <![CDATA[User Logged In]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_40_54.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Gmail logged in 23_02_2021_04_40_54.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_mailClick -->
+        <test-method status="PASS" signature="c_AssessMailClick()[pri:2, instance:AssessFlowtestcases.CompleteAnEvaluation@72b6cbcc]" name="c_AssessMailClick" duration-ms="15266" started-at="2021-02-23T11:10:57Z" finished-at="2021-02-23T11:11:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[mail from AssessTeam is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[link for verifying the mail id is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_10.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_10.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Survey start button is being clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_AssessMailClick -->
+        <test-method status="PASS" signature="d_Evaluation()[pri:3, instance:AssessFlowtestcases.CompleteAnEvaluation@72b6cbcc]" name="d_Evaluation" duration-ms="10919" started-at="2021-02-23T11:11:12Z" finished-at="2021-02-23T11:11:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\EvaluationComplete 23_02_2021_04_41_21.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\EvaluationComplete 23_02_2021_04_41_21.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_Evaluation -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.CompleteAnEvaluation@72b6cbcc]" name="Teardown" is-config="true" duration-ms="1" started-at="2021-02-23T11:11:23Z" finished-at="2021-02-23T11:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.CompleteAnEvaluation -->
+    </test> <!-- completeEvaluation -->
+    <test name="continuousFeedback" duration-ms="35760" started-at="2021-02-23T11:11:23Z" finished-at="2021-02-23T11:11:58Z">
+      <class name="AssessFlowtestcases.continuousFeedback">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.continuousFeedback@5a8806ef]" name="a_HomepageNavigation" duration-ms="3476" started-at="2021-02-23T11:11:23Z" finished-at="2021-02-23T11:11:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_41_26.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\Homepage 23_02_2021_04_41_26.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.continuousFeedback@5a8806ef]" name="b_LoginAssess" duration-ms="6292" started-at="2021-02-23T11:11:26Z" finished-at="2021-02-23T11:11:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AfterLoginPage 23_02_2021_04_41_32.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\AfterLoginPage 23_02_2021_04_41_32.png'height='100' Width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_ContinuousFeedbackPage()[pri:2, instance:AssessFlowtestcases.continuousFeedback@5a8806ef]" name="c_ContinuousFeedbackPage" duration-ms="19071" started-at="2021-02-23T11:11:32Z" finished-at="2021-02-23T11:11:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Continuous FeedBack button is being Clicked]]>
+            </line>
+            <line>
+              <![CDATA[<a herf='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_50.png'><img src='C:\Users\pulse.tester\eclipse-workspace\AssessTeam\src\main\java\ScreenShotSuccess\verifying mail 23_02_2021_04_41_50.png'height='100' Width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[Survey start button is being clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_ContinuousFeedbackPage -->
+        <test-method status="PASS" signature="d_Evaluation()[pri:3, instance:AssessFlowtestcases.continuousFeedback@5a8806ef]" name="d_Evaluation" duration-ms="6914" started-at="2021-02-23T11:11:52Z" finished-at="2021-02-23T11:11:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Evaluation for person is being started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d_Evaluation -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.continuousFeedback@5a8806ef]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:11:58Z" finished-at="2021-02-23T11:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.continuousFeedback -->
+    </test> <!-- continuousFeedback -->
+    <test name="Delete" duration-ms="44906" started-at="2021-02-23T11:11:58Z" finished-at="2021-02-23T11:12:43Z">
+      <class name="AssessFlowtestcases.DeleteCompany">
+        <test-method status="PASS" signature="a_HomepageNavigation()[pri:0, instance:AssessFlowtestcases.DeleteCompany@1e6d1014]" name="a_HomepageNavigation" duration-ms="4948" started-at="2021-02-23T11:11:58Z" finished-at="2021-02-23T11:12:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The browser is being opened]]>
+            </line>
+            <line>
+              <![CDATA[https://account.assessteam.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Url is being hit]]>
+            </line>
+            <line>
+              <![CDATA[HomePage Navigation done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a_HomepageNavigation -->
+        <test-method status="PASS" signature="b_LoginAssess()[pri:1, instance:AssessFlowtestcases.DeleteCompany@1e6d1014]" name="b_LoginAssess" duration-ms="5891" started-at="2021-02-23T11:12:03Z" finished-at="2021-02-23T11:12:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[username entered]]>
+            </line>
+            <line>
+              <![CDATA[password entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b_LoginAssess -->
+        <test-method status="PASS" signature="c_delete()[pri:2, instance:AssessFlowtestcases.DeleteCompany@1e6d1014]" name="c_delete" duration-ms="34059" started-at="2021-02-23T11:12:09Z" finished-at="2021-02-23T11:12:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[delete button is being clicked]]>
+            </line>
+            <line>
+              <![CDATA[company is being deleted and navigated to sign up page]]>
+            </line>
+            <line>
+              <![CDATA[Gmail is being opened]]>
+            </line>
+            <line>
+              <![CDATA[email ID and password is being provided]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c_delete -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:AssessFlowtestcases.DeleteCompany@1e6d1014]" name="Teardown" is-config="true" duration-ms="0" started-at="2021-02-23T11:12:43Z" finished-at="2021-02-23T11:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- AssessFlowtestcases.DeleteCompany -->
+    </test> <!-- Delete -->
+  </suite> <!-- Suite -->
+</testng-results>

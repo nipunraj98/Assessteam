@@ -1,0 +1,221 @@
+<html>
+<head>
+<title>TestNG:  APIIntegration</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>APIIntegration</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>7/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Feb 23 16:38:22 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>95 seconds (95151 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.a_HomepageNavigation()'><b>a_HomepageNavigation</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-947069810" onClick='toggleBox("Output-947069810", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-947069810" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-947069810">
+The browser is being opened<br/>
+https://account.assessteam.com/login<br/>
+Url is being hit<br/>
+HomePage Navigation done<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.b_LoginAssess()'><b>b_LoginAssess</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-586914348" onClick='toggleBox("Output-586914348", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-586914348" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-586914348">
+username entered<br/>
+password entered<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.c_APIIntegration()'><b>c_APIIntegration</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-1991201238" onClick='toggleBox("Output-1991201238", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1991201238" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1991201238">
+Integration is being clicked<br/>
+API Swagger UI has been opened<br/>
+Secret Key has been pasted in swagger<br/>
+Authorize successful<br/>
+</div>
+</td>
+<td></td>
+<td>41</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.d_AddPerson()'><b>d_AddPerson</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-651176183" onClick='toggleBox("Output-651176183", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-651176183" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-651176183">
+Post for add person is being clicked<br/>
+All details have been entered for Person Code<br/>
+execute button is being clicked for add person<br/>
+The request Url after adding Person in Swaggerhttps://restapi.assessteam.com/person/addperson?firstname=joey&lastname=Rachel&personcode=9537<br/>
+The Response after adding Person{
+  "message": "Person added successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}<br/>
+Add Person is completed<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.e_UpdatePerson()'><b>e_UpdatePerson</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-329410765" onClick='toggleBox("Output-329410765", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-329410765" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-329410765">
+Post for update person is being clicked<br/>
+try it out button is being clicked<br/>
+All updated details have been entered and lastName is being updated<br/>
+Execute button is being clicked<br/>
+The Request URL after updating details of Lastnamehttps://restapi.assessteam.com/person/updateperson?firstname=joey&lastname=david&personcode=9537<br/>
+The Response after updating Person{
+  "message": "Person updated successfully",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}<br/>
+Update Person is being completed<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.f_getPerson()'><b>f_getPerson</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-1471278212" onClick='toggleBox("Output-1471278212", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1471278212" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1471278212">
+Post for get person is being clicked<br/>
+try it out button is being clicked<br/>
+Person code is being entered<br/>
+Execute button is being clicked<br/>
+The Response after executing get Person{
+  "message": "",
+  "data": {
+    "firstname": "Froger",
+    "lastname": "Audey",
+    "personcode": "0001",
+    "dateofjoining": null,
+    "email": "selenium+u1@pulsesolutions.net",
+    "contactnumber": null,
+    "userpermissions": "Owners",
+    "team": null,
+    "jobtitle": "Owner",
+    "evaluators": null
+  },
+  "statusCode": 200,
+  "personID": 0
+}<br/>
+GetPerson is being completed<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+<tr>
+<td title='AssessFlowtestcases.APIIntegration.g_deletePerson()'><b>g_deletePerson</b><br>Test class: AssessFlowtestcases.APIIntegration<br/>
+<a href="#Output-333211209" onClick='toggleBox("Output-333211209", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-333211209" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-333211209">
+Post for delete person is being clicked<br/>
+try it out button is being clicked<br/>
+person code is being entered and execute button is being clicked<br/>
+Response after deleting person{
+  "message": "Person removed successfully.",
+  "data": null,
+  "statusCode": 200,
+  "personID": 0
+}<br/>
+delete Person is completed<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>AssessFlowtestcases.APIIntegration@3cef309d</td></tr>
+</table><p>
+</body>
+</html>

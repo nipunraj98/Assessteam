@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="AddPerson(failed)">
+    <classes>
+      <class name="AssessFlowtestcases.AddPersonManually">
+        <methods>
+          <include name="e_AssessMailClick"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- AssessFlowtestcases.AddPersonManually -->
+    </classes>
+  </test> <!-- AddPerson(failed) -->
+</suite> <!-- Failed suite [Suite] -->
