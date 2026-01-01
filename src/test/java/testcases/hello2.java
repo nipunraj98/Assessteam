@@ -1,13 +1,12 @@
 package testcases;
 
-public class hello 
+public class hello2 
 {
 
 	@Test
 	public void printhello()
 	{
-		System.out.println("Helloworld");
-		System.out.println("Helloworld");
+		
 		System.out.println("Helloworld2");
 	}
 }
